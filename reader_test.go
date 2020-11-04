@@ -20,7 +20,7 @@ import (
 	"testing"
 	"testing/iotest"
 
-	"github.com/xi2/xz"
+	"github.com/therootcompany/xz"
 )
 
 type testFile struct {
